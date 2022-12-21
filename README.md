@@ -7,7 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantos02&layout=compact&hide_border=true&title_color=C142F5&text_color=C142F5&bg_color=0d1117" />
 </div>
 
-
 <div align="center"> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "#"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,7 +16,6 @@
 ## Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
