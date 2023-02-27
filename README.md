@@ -3,10 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C142F5&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Jessica+Santos;eu+tenho+22+anos+;e+estou+começando+como+FrontEnd;seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-santos-bab9a3266/)
 
-## Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+## Tecnologias que eu sei:
+
+<div style= "display: inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
