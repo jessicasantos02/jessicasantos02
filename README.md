@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C142F5&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Jessica+Santos;eu+tenho+22+anos+;e+estou+começando+como+FrontEnd;seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
-## Redes sociais:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-santos-bab9a3266/)
-
 
 ## Tecnologias:
 
